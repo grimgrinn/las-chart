@@ -1,0 +1,11 @@
+.chart-container {
+    height: 650px;
+    overflow-y: scroll;
+    width: 500px;
+    float: left;
+}
+
+#chart {
+    height: 5000px;
+    width: 450px;
+}
